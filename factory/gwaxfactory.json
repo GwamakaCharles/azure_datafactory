@@ -1,0 +1,9 @@
+{
+	"name": "gwaxfactory",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81cfe704-1b63-4ed2-a5f6-b0c51457bd14",
+		"tenantId": "f0d73df2-2078-4530-bf86-96e449eff8a2"
+	}
+}
